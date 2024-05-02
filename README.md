@@ -1,5 +1,5 @@
-**Ionic Cordova app written with Typescript, HTML, and CSS
-**
+**Ionic Cordova app written with Typescript, HTML, and CSS**
+
 UI and styling from the Youtube app (as of 5/2024), drawer and UI for the home screen is completed
 
 
