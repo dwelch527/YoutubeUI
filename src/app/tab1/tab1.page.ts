@@ -27,8 +27,8 @@ export class Tab1Page {
 
     setTimeout(() => {
       this.selectSegment(0);
-      this.segments = homeData;
-    }, 1000);
+    this.videos = homeData;
+    }, 3000);
  }
 
   selectSegment(index) {
